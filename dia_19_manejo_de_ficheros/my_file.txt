@@ -1,0 +1,5 @@
+Mi nombre es Jose
+Mi apellido es Moreno de la Rosa
+Tengo 45 años
+Estoy estudiando Python
+Aunque tambien me gusta R
